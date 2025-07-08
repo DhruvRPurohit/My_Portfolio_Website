@@ -18,10 +18,10 @@ const Navbar = () => {
         </div>
 
         {/* Right Div photo section */}
-        <div className='relative h-auto w-[50%]  flex justify-center items-center'>
-            <div className='absolute  w-104 h-104 bg-white rounded-full shadow-inner z-o' />
-            <div className='absolute w-92 h-92 bg-neutral-200 rounded-b-full shadow-md z-[-1] ' />
-            <img src={mypic} alt="not working"  className='relative h-80 w-80 object-cover rounded-full border-4 border-neutral-100 shadow-lg '/>
+        <div className='relative h-auto w-[50%]  flex justify-center items-center mt-5'>
+            <div className='absolute  w-96 h-96 bg-white rounded-full shadow-inner z-o' />
+            <div className='absolute w-84 h-84 bg-neutral-200 rounded-b-full shadow-md z-[-1] ' />
+            <img src={mypic} alt="not working"  className='relative h-72 w-72 object-cover rounded-full border-4 border-neutral-100 shadow-lg '/>
         </div>  
     </nav>
   )
