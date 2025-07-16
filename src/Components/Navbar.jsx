@@ -13,7 +13,7 @@ const Navbar = () => {
                words={["Mern Stack Devloper", "React js Devloper","Node js Devloper"]}/>
             </div>
             <p className='text-[#ADB7BE] text-xl lg:text-2xl'> 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. At non rem quod voluptatem. Deleniti, officiis iusto. Molestias unde illum vero aperiam officiis, dolor commodi laudantium! Dolores dignissimos delectus excepturi quas repellat illum, odit eaque. Omnis vel numquam impedit quod ipsam, ratione ea totam odio debitis illum porro rem, labore atque.
+                I’m Dhruv Purohit, a dedicated MERN Stack Developer with a BCA from MK Bhavnagar University. I’ve completed a full-stack development course at TOPS Technologies, Ahmedabad, where I worked on real-time projects using MongoDB, Express.js, React.js, and Node.js. I’m passionate about building responsive web applications and writing clean, scalable code. I'm now looking for opportunities to grow and contribute to dynamic development teams.
             </p>
         </div>
 
